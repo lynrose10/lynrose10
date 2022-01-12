@@ -1,6 +1,6 @@
 # I’m Lynrose
 - 👀 I’m interested in react-native and flutter.
-- 💼 I’m working with react-native since 2017.
+- 💼 I’m working using react-native since 2017.
 - 🌱 I’m recently learning flutter.
 
 <!---
